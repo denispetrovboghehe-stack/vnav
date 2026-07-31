@@ -1,0 +1,6 @@
+{
+  "name": "VisionNav",
+  "description": "Приложение упрощенной навигации для слабовидящих с интеграцией 2GIS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
